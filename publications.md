@@ -125,7 +125,7 @@ IEEE Transactions on Computers, 2022.
 ### Conference
 <b>EBS-CFL: Efficient and Byzantine-Robust Secure Clustered Federated Learning</b><br/>
 Zhiqiang Li, Haiyong Bao, Menghong Guan, Hao Pan, **Cheng Huang**, and Hong-Ning Dai<br/>
-AAAI’25.
+AAAI’25, Philadelphia, USA, Feb. 25-Mar. 4, 2025.
 
 <b>Enabling Efficient Spatio-Temporal Range Query over Encrypted Databases</b><br/>
 Dan Zhu, Xiangyu Wang, **Cheng Huang**, Jianfeng Ma, Peilin Han, and Wei Hu<br/>
