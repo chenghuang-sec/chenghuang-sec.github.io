@@ -83,7 +83,7 @@ Dan Zhu, Hui Zhu, **Cheng Huang**, Rongxing Lu, Dengguo Feng, and Xuemin Shen<br
 IEEE Transactions on Dependable and Secure Computing, 2023.
 
 <b>KMSQ: Efficient and Privacy-Preserving Keyword-oriented Multidimensional Similarity Query in eHealthcare</b><br/>
-Zian Zhang, Haiyong Bao, Rongxing Lu, Cheng Huang, and Beibei Li<br/>
+Zian Zhang, Haiyong Bao, Rongxing Lu, **Cheng Huang**, and Beibei Li<br/>
 IEEE Internet of Things Journal, 2023.
 
 <b>A Blockchain-based Copyright Protection Scheme with Proactive Defense</b><br/>
@@ -91,7 +91,7 @@ Xiaohu Chen, Anjia Yang, Jian Weng, Yao Tong, **Cheng Huang**, and Tao Li<br/>
 IEEE Transactions on Services Computing, 2023.
 
 <b>Blockchain for Transparent Data Management towards 6G</b><br/>
-Xuemin Shen, Dongxiao Liu, Cheng Huang, Liang. Xue, Han Yin, Weihua Zhuang, Rob Sun, and Bidi Ying<br/>
+Xuemin Shen, Dongxiao Liu, **Cheng Huang**, Liang. Xue, Han Yin, Weihua Zhuang, Rob Sun, and Bidi Ying<br/>
 Engineering (Elsevier), 2022.
 
 <b>Blockchain-Assisted Personalized Car Insurance with Privacy Preservation and Fraud Resistance</b><br/>
