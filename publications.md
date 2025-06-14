@@ -18,6 +18,10 @@ Security and Privacy in Internet of Things (IoTs): Models, Algorithms, and Imple
 
 ### Journal
 
+<b>Enabling Efficient and Privacy-preserving Sequence Similarity Query on Encrypted Genomes</b><br/>
+Chen Gong, Xiangyu Wang, Dan Zhu,  **Cheng Huang**, Zhuoran Ma, and Jianfeng Ma<br/>
+IEEE Transactions on Dependable and Secure Computing, 2025.
+
 <b>DualGuard: Obfuscated Federated Learning with Two-Party Secure Robust Aggregation</b><br/>
 Hao Pan, Haiyong Bao, Menghong Guan, Zhiqiang Li, **Cheng Huang**, and Hong-Ning Dai<br/>
 IEEE Internet of Things Journal, 2025.
