@@ -18,6 +18,10 @@ Security and Privacy in Internet of Things (IoTs): Models, Algorithms, and Imple
 
 ### Journal
 
+<b>MKAC: Efficient and Privacy-Preserving Multi-Keyword Ranked Query with Ciphertext Access Control in Cloud Environments</b><br/>
+Haiyong Bao, Lu Xing, Honglin Wu, Menghong Guan, Na Ruan, **Cheng Huang**, and Hong-Ning Dai<br/>
+IEEE Transactions on Cloud Computing, 2025.
+
 <b>Enabling Efficient and Privacy-preserving Sequence Similarity Query on Encrypted Genomes</b><br/>
 Chen Gong, Xiangyu Wang, Dan Zhu,  **Cheng Huang**, Zhuoran Ma, and Jianfeng Ma<br/>
 IEEE Transactions on Dependable and Secure Computing, 2025.
