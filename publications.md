@@ -18,6 +18,10 @@ Security and Privacy in Internet of Things (IoTs): Models, Algorithms, and Imple
 
 ### Journal
 
+<b>EPPQ: Efficient and Privacy-Preserving kNN Query for Outsourced High-Dimensional Data</b><br/>
+Jing Wang, Haiyong Bao, Rongxing Lu, **Cheng Huang**, Menghong Guan, and Lu Xing<br/>
+IEEE Transactions on Services Computing, 2025.
+
 <b>MKAC: Efficient and Privacy-Preserving Multi-Keyword Ranked Query with Ciphertext Access Control in Cloud Environments</b><br/>
 Haiyong Bao, Lu Xing, Honglin Wu, Menghong Guan, Na Ruan, **Cheng Huang**, and Hong-Ning Dai<br/>
 IEEE Transactions on Cloud Computing, 2025.
