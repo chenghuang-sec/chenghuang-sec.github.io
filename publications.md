@@ -18,6 +18,14 @@ Security and Privacy in Internet of Things (IoTs): Models, Algorithms, and Imple
 
 ### Journal
 
+<b>PRRQ: Privacy-Preserving Resilient RkNN Query over Encrypted Outsourced Multi-Attribute Data</b><br/>
+Jing Wang, Haiyong Bao, Na Ruan, Qinglei Kong, **Cheng Huang**, and Hong-Ning Dai<br/>
+IEEE Transactions on Computers, 2025.
+
+<b>Highly-Secure and Efficient Certificateless AKA for Vehicular Access Networks</b><br/>
+Suhui Liu, **Cheng Huang**, Liqun Chen, Liquan Chen, and Jiguo Yu<br/>
+IEEE Transactions on Intelligent Transportation Systems, 2025.
+
 <b>EPPQ: Efficient and Privacy-Preserving kNN Query for Outsourced High-Dimensional Data</b><br/>
 Jing Wang, Haiyong Bao, Rongxing Lu, **Cheng Huang**, Menghong Guan, and Lu Xing<br/>
 IEEE Transactions on Services Computing, 2025.
